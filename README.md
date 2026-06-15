@@ -16,7 +16,8 @@ AI models rely heavily on human-annotated data, yet the contributors who label t
 * **Explorer Link:** [View Contract on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CCWSVIQ6VGZS6URM4VPVSV7Q4GOSZOBSB5MDXI7FGDCDYZICDQYS6S6E)
 
 *(Note: Insert the screenshot of your deployed contract or terminal success message here)*
-![Contract Screenshot](link-to-your-image-here)
+![Contract Screenshot](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/963988fd-e99e-439d-b444-e1d35772c8f6" />
+)
 
 # Future scopes
 * **Frontend Integration:** Build a sleek, user-friendly interface using Next.js for seamless wallet connection and task management.
