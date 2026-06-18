@@ -27,4 +27,4 @@ AI models rely heavily on human-annotated data, yet the contributors who label t
 * **Name:** Lý Trường Phát
 * **Role:** First-year IT Student
 * **Bio:** An 18-year-old software engineering student at HUTECH University in Ho Chi Minh City. I am passionate about building AI-driven web applications and exploring the potential of Web3 technologies to solve real-world problems.
-* **Skills:** Next.js, C/C++, Java, API Integration, Rust (Soroban Smart Contracts).
+
